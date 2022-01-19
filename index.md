@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Haohua Lyu
 
 ## About Me
 
@@ -11,7 +10,7 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
 [Resume](https://drive.google.com/file/d/15_S1_HxkrPH5fZ2CZe_meKHJ9E8NfVtl/view?usp=sharing) (Last Update: 2022/01/19)
 
-## Contact
+### Contact
 
 * Email: [haohua@berkeley.edu](mailto:haohua@berkeley.edu), [lyu.haohua@gmail.com](mailto:lyu.haohua@gmail.com)
 
@@ -24,7 +23,7 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 ## Education
 
 * University of California, Berkeley - Master of Engineering in EECS, in Visual Computing and Computer Graphics track
-* University of Pennsylvania - BA in Political Science and Computer Science, Summa cum laude
+* University of Pennsylvania - BA in Political Science and Computer Science, *Summa cum laude*
 
   - Member of Pi Sigma Alpha National Political Science Honor Society
   - Advisory Board Member of Political Science Department
@@ -42,6 +41,8 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
   - Participated in courses and research focusing on business administration in China’s state-owned enterprises (SOEs);
   - Led course discussions and prepared research materials.
+
+---
 
 ## Project
 
