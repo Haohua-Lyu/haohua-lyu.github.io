@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley.
 
-[Resume](https://drive.google.com/file/d/15_S1_HxkrPH5fZ2CZe_meKHJ9E8NfVtl/view?usp=sharing) (Last Update: 2022/01/19)
+[Resume](Haohua_Lyu_Resume_EN_2022_01_T.pdf) (Last Update: 2022/01/19)
 
 ### Contact
 
