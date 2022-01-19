@@ -1,6 +1,6 @@
 title: Haohua Lyu
-url: "https://www.haohualyu.com"
-baseurl: "/"
+domain: haohua-lyu.github.io
+url: https://haohua-lyu.github.io
 
 site.favicon: true
 site.favicon_location: "./favicon.ico" 
