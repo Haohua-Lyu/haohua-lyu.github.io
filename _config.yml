@@ -2,8 +2,8 @@ title: Haohua Lyu
 domain: haohua-lyu.github.io
 url: https://haohua-lyu.github.io
 
-site.favicon: true
-site.favicon_location: "./favicon.ico" 
+favicon: true
+favicon_location: "./favicon.ico" 
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
