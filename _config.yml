@@ -1,0 +1,25 @@
+title: Haohua Lyu
+url: "https://www.haohualyu.com"
+baseurl: "/"
+
+site.favicon: true
+site.favicon_location: "./favicon.ico" 
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/haohua-lyu"
+footer_text: "Made by Haohua Lyu. Forked from Ankit Sultana."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "Haohua_Lyu_Resume_EN_2022_01_T.pdf"
