@@ -3,7 +3,7 @@ domain: haohua-lyu.github.io
 url: https://haohua-lyu.github.io
 
 favicon: true
-favicon_location: "./favicon.ico" 
+favicon_location: "./favicon.ico?" 
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
