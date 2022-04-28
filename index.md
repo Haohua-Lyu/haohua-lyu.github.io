@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley. UCB MEng'22, UPenn C'21.
 
-[Resume](Haohua_Lyu_Resume_EN_2022_01_T.pdf) (Last Update: 2022/01/19)
+[Resume](Haohua_Lyu_Resume_EN_2022_04_T.pdf) (Last Update: 2022/04/28)
 
 ### Contact
 
@@ -47,16 +47,14 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
 ## Project
 
+* **[WebTransceiVR](https://www.behance.net/gallery/133237183/WebTransceiVR-Asymmetric-VR-Collaboration-At-Scale) supervised by Prof. Bjoern Hartmann (Ongoing)**
+  - **Paper (co-first author) published on CHI 2022 Late-breaking work!** View on [ACM Library](https://dl.acm.org/doi/abs/10.1145/3491101.3519816).
+  - Researched online asymmetric communication between VR users and multiple non-VR users;
+  - Designed and developed a WebRTC-based network infrastructure to allow multiple non-VR users to join and interact with a VR virtual environment, and a cloud-based streaming solution to accommodate a large amount of spectators.
+
 * **[Vision Correcting Display](https://barskygroup.wixsite.com/home) supervised by Prof. Brian Barsky (Ongoing)** - Algorithm Parallelization
   
-  - Refactored and accelerated algorithms using OpenCV, OpenMP, OpenCL, and Intel oneAPI, with 2x-3x faster performance.
-
-* **[WebTransceiVR](https://www.behance.net/gallery/133237183/WebTransceiVR-Asymmetric-VR-Collaboration-At-Scale) supervised by Prof. Bjoern Hartmann (Ongoing)**
-
-  - Researched online asymmetric communication between VR users and multiple non-VR users;
-  - Designed and developed a WebRTC-based network infrastructure to allow multiple non-VR users to join and interact with a
-VR virtual environment, and a cloud-based streaming solution to accommodate a large ammount of spectators.
-  - **Paper accepted by CHI 2022 Late-breaking work!**
+  - Refactored and accelerated algorithms using OpenCV, OpenMP, OpenCL, and Intel oneAPI, with 3x-20x faster performance.
 
 * **Research on the Stagnation of Trans-Pacific Partnership (TPP)**
 
@@ -68,5 +66,4 @@ organizational, and regional factors on the treaty, and anticipated future possi
 
 ## Skills
 * **Languages & Framework:** Python, C# (Unity), C++, Java, Kotlin (Android Studio), JavaScript (Node.js), HTML
-* **Knowledge:** Virtual Reality, Game Development, Web Interface & Systems, Image & Video Processing, Mobile Development,
-Version control
+* **Knowledge:** Virtual Reality, Game Development, Web Interface & Systems, Image & Video Processing, Mobile Development, Version control
