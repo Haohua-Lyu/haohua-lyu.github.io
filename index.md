@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley. UCB MEng'22, UPenn C'21.
 
-[Resume](Haohua_Lyu_Resume_EN_2022_04_T.pdf) (Last Update: 2022/04/28)
+[Resume](Haohua_Lyu_Resume_EN_2022_05_T.pdf) (Last Update: 2022/05/23)
 
 ### Contact
 
@@ -51,6 +51,7 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
   - **Paper (co-first author) published on CHI 2022 Late-breaking work!** View on [ACM Library](https://dl.acm.org/doi/abs/10.1145/3491101.3519816).
   - Researched online asymmetric communication between VR users and multiple non-VR users;
   - Designed and developed a WebRTC-based network infrastructure to allow multiple non-VR users to join and interact with a VR virtual environment, and a cloud-based streaming solution to accommodate a large amount of spectators.
+  - Working on advance camera control and new interactivity for a new iteration.
 
 * **[Vision Correcting Display](https://barskygroup.wixsite.com/home) supervised by Prof. Brian Barsky (Ongoing)** - Algorithm Parallelization
   
