@@ -7,9 +7,9 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley. UCB MEng'22, UPenn C'21.
+Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley. UCB MEng'22, UPenn C'21. Currently applying for Ph.D. programs in CS/HCI.
 
-[Resume](Haohua_Lyu_Resume_EN_2022_05_T.pdf) (Last Update: 2022/05/23)
+[Resume](Haohua_Lyu_Resume_EN_2022_11_T.pdf) (Last Update: 2022/11/25)
 
 ### Contact
 
@@ -28,6 +28,12 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
   - Member of Pi Sigma Alpha National Political Science Honor Society
   - Advisory Board Member of Political Science Department
+
+---
+
+## Publication
+
+* **Haohua Lyu**, Cyrus Vachha, Qianyi Chen, Odysseus Pyrinis, Avery Liou, Balasaravanan Thoravi Kumaravel, and Björn Hartmann. 2022. WebTransceiVR: Asymmetrical Communication Between Multiple VR and Non-VR Users Online. In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA '22). Association for Computing Machinery, New York, NY, USA, Article 313, 1–7. [https://doi.org/10.1145/3491101.3519816](https://www.linkedin.com/in/haohualyu/)
 
 ---
 
