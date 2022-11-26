@@ -33,7 +33,7 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
 ## Publication
 
-* **Haohua Lyu**, Cyrus Vachha, Qianyi Chen, Odysseus Pyrinis, Avery Liou, Balasaravanan Thoravi Kumaravel, and Björn Hartmann. 2022. WebTransceiVR: Asymmetrical Communication Between Multiple VR and Non-VR Users Online. In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA '22). Association for Computing Machinery, New York, NY, USA, Article 313, 1–7. [https://doi.org/10.1145/3491101.3519816](https://www.linkedin.com/in/haohualyu/)
+* **Haohua Lyu**, Cyrus Vachha, Qianyi Chen, Odysseus Pyrinis, Avery Liou, Balasaravanan Thoravi Kumaravel, and Björn Hartmann. 2022. WebTransceiVR: Asymmetrical Communication Between Multiple VR and Non-VR Users Online. In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA '22). Association for Computing Machinery, New York, NY, USA, Article 313, 1–7. [https://doi.org/10.1145/3491101.3519816](https://doi.org/10.1145/3491101.3519816)
 
 ---
 
