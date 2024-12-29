@@ -13,7 +13,8 @@ Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of Cal
 
 ### Contact
 
-* Email: [haohua@berkeley.edu](mailto:haohua@berkeley.edu), [lyu.haohua@gmail.com](mailto:lyu.haohua@gmail.com)
+<!-- * Email: [haohua@berkeley.edu](mailto:haohua@berkeley.edu), [lyu.haohua@gmail.com](mailto:lyu.haohua@gmail.com) -->
+* Email: [haohua@berkeley.edu](mailto:haohua@berkeley.edu)
 
 * [GitHub](https://github.com/Haohua-Lyu)
 
