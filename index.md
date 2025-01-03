@@ -7,7 +7,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am Haohua Lyu, a Master of Engineering student in EECS @ University of California, Berkeley. UCB MEng'22, UPenn C'21. Currently applying for Ph.D. programs in CS/HCI.
+Hi! I am Haohua Lyu. UCB MEng'22, UPenn C'21. Interested in Game Dev and HCI.
 
 [Resume](Haohua_Lyu_Resume_EN_2022_11_T.pdf) (Last Update: 2022/11/25)
 
