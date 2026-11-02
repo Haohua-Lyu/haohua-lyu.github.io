@@ -1,25 +1,17 @@
 title: Haohua Lyu
-domain: haohua-lyu.github.io
-url: https://haohua-lyu.github.io
-
-favicon: true
-favicon_location: "./favicon.ico?" 
-
+author: Haohua Lyu
+description: "Founder working on digital twins and interactive 3D systems."
+url: "https://www.haohualyu.com"
+baseurl: ""
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
-tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/haohua-lyu"
-footer_text: "Made by Haohua Lyu. Forked from Ankit Sultana."
+# The homepage is static HTML/CSS and works both locally and on GitHub Pages.
+# Keep the old resume in the checkout, but do not include it in the published site.
+exclude:
+  - Haohua_Lyu_Resume_EN_2022_11_T.pdf
+  - README.md
+  - LICENSE
 
 sass:
-    style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "Haohua_Lyu_Resume_EN_2022_11_T.pdf"
+  style: compressed
+  sass_dir: _sass
